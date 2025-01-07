@@ -1,0 +1,89 @@
+.intel_syntax noprefix
+
+_start:
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  nop 
+  jmp   jump_here
+
+jump_here:
+  pop   rdi
+  mov   rax,  0x4003000
+  jmp   rax
