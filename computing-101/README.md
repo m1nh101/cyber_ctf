@@ -23,3 +23,9 @@ For interact with the challenge
 ``` bash
 /challenge/check {challenge-file-name}.s
 ```
+
+### Hello hacker
+For interact with the challenge
+``` bash
+/challenge/check {challenge-file-name}.s
+```
