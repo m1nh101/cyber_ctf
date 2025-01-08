@@ -17,3 +17,9 @@ as -o asm.o {challenge-file-name}.s
 ld -o exe asm.o
 /challenge/check exe
 ```
+
+### Computer memory
+For interact with the challenge
+``` bash
+/challenge/check {challenge-file-name}.s
+```
