@@ -2,6 +2,5 @@ lab/
 *.o
 *.bin
 *.obj
-
-**/**/env/lib
-**/**/env/include
+env/
+local/
